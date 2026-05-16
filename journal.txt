@@ -1,0 +1,7 @@
+1. J’ai créé le dossier du projet student-dev-project.
+2. J’ai ajouté le fichier index.html.
+3. J’ai créé une structure HTML simple.
+4. J’ai ajouté une liste de compétences.
+5. J’ai initialisé Git avec la commande git init.
+6. J’ai effectué mon premier commit.
+7. Difficulté rencontrée : connexion au dépôt distant Github.
